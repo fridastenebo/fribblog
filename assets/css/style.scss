@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    color: #0c1c54;
+    background-color: #d29bc9;
+}
+
+h1,h2, h3, h4, h5 {
+    color: #0c1c54;
+}
+
+a[href] {
+    color: #0c1c54;
+  }
+
