@@ -9,5 +9,6 @@ Fiddled with adding a theme today. Of course I underestimated and thought it wou
 but of course not.
 
 - [x] Find a theme - _minima_
-- [/] Figure out colors and applying them to all relevant classes
+- [ ] Figure out colors and applying them to all relevant classes
 - [ ] Learn how to deal with image links that won't break
+- [ ] Modify some of the theme layouts
