@@ -2,7 +2,7 @@
 layout: post
 title:  "How I set up my blog using Jekyll"
 date:   2022-10-23 12:30:00 +0200
-categories: jekyll code
+tags: jekyll code
 ---
 
 Let's kick this off a little meta before getting into it, I have so many posts I want to publish on here because lately, I've been really missing the wordpress blog I ran for a few years during my gymnasie-years (grade 9-12).

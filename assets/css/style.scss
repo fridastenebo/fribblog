@@ -17,9 +17,9 @@ h1,h2, h3, h4, h5 {
 
 h1 {
     position: relative;
-  }
+}
   
-  h1::before {
+h1::before {
     /* Highlight color */
     background-color: $primary-color;
   
@@ -31,12 +31,16 @@ h1 {
     bottom: 0;
     z-index: -1;
     transform: rotate(-1deg);
-  }
+}
 
 
 a[href] {
     color: #0c1c54;
   }
+
+code {
+    color: black;
+}
 
 .highlight {
     background-color: #0c1c54;
