@@ -109,4 +109,4 @@ bundler: failed to load command: jekyll (/opt/homebrew/lib/ruby/gems/3.1.0/bin/j
 `bundle add webrick`
 
 ### It (hopefully) worked!
-![Success](https://drive.google.com/uc?export=view&id=11cWyvak0FD46ebgxVpnumZ6Gxja_ozf_)
+{% include drive-img.html driveid="11cWyvak0FD46ebgxVpnumZ6Gxja_ozf_" alt="Success" %}
