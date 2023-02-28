@@ -11,4 +11,4 @@ but of course not.
 - [x] Find a theme - _minimal_
 - [x] Figure out colors and applying them to all relevant classes
 - [x] Learn how to deal with image links that won't break
-- [ ] Modify some of the theme layouts
+- [x] Modify some of the theme layouts

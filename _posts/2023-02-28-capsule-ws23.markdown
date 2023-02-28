@@ -48,6 +48,7 @@ Which brings us to...
 ![#141EC1](https://via.placeholder.com/30/141EC1/000000?text=+) `Cobalt Blue`
 
 ### Stats
+
 | Type     | Pieces|
 |----------|------:|
 | Tops     |     8 |
