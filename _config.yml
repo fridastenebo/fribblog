@@ -23,9 +23,9 @@ email: --
 description: >- # this means to ignore newlines until "baseurl:"
   Documenting the things I want to document, 
   and things I might want to revisit.
-baseurl: "/fribblog" # the subpath of your site, e.g. /blog
 url: "https://fridastenebo.github.io" # the base hostname & protocol for your site
 github_username:  fridastenebo
+excerpt_separator: "<!-- more -->"
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
